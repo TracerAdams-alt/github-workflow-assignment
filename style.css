@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Lexend+Tera:wght@100..900&family=Pacifico&family=Permanent+Marker&family=Rubik+Vinyl&display=swap');
+
+h1 {
+    font-family: 'Rubik Vinyl', sans-serif;
+    color: pink;
+    background-color: aquamarine;
+    text-align: center;
+    letter-spacing: 2rem;
+}
+
+p {
+    font-family: 'Pacifico', sans-serif;
+    color: chartreuse;
+    letter-spacing: 3rem;
+}
