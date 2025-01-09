@@ -9,6 +9,7 @@
 body {
     background-image: radial-gradient(red, blue, yellow);
     background-size: auto;
+    min-height: 100%;
     background-repeat: no-repeat;
 }
 
@@ -17,18 +18,29 @@ h1 {
     color: pink;
     background-color: aquamarine;
     text-align: center;
-    letter-spacing: 2rem;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2rem;
+}
+
+h3 {
+    text-align: center;
+    margin-top: 20px;
 }
 
 p {
     font-family: 'Pacifico', sans-serif;
     color: chartreuse;
-    letter-spacing: 3rem;
+    font-size: 22px;
+    text-align: center;
 }
 
 ul {
     background-color: blanchedalmond;
+    margin-top: 100vh;
 }
 li {
     color: darkgoldenrod;
+    padding-left: 100px;
+    font-size: 40px;
 }
