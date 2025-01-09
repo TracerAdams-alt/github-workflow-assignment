@@ -8,6 +8,8 @@
 
 body {
     background-image: radial-gradient(red, blue, yellow);
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 h1 {
