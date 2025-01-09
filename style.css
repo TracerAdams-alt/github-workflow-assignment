@@ -1,7 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Lexend+Tera:wght@100..900&family=Pacifico&family=Permanent+Marker&family=Rubik+Vinyl&display=swap');
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-image: -moz-radial-gradient(red, blue, yellow);
+    background-image: radial-gradient(red, blue, yellow);
+    background-size: auto;
+    background-repeat: no-repeat;
 }
 
 h1 {
